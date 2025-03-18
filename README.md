@@ -1,6 +1,3 @@
-# amigo_secreto
-Challenge alura amigo secreto
-
 ## Descripción
 "Amigo Secreto" es una aplicación sencilla desarrollada en JavaScript, inspirada en el juego del número secreto. Permite a los usuarios ingresar nombres de amigos y, mediante un sorteo aleatorio, determinar quién será el "amigo secreto". El juego utiliza conceptos básicos como arrays, condicionales y funciones para cumplir su objetivo.
 
